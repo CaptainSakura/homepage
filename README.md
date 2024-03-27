@@ -1,9 +1,9 @@
-# Karolina Anderson - moja strona o zespole muzycznym PTX
+# First page - favourite music band Pentatonix
 
 ## Demo
 
 https://captainsakura.github.io/homepage/
 
-##Opis
+## Description
 
-Pierwsza strona
+First page 
