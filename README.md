@@ -8,7 +8,7 @@ This project is a basic website layout containing information about my favourite
 ## Preview
 
 ## Demo
-Check how the website [HERE](https://captainsakura.github.io/homepage/)
+Check how the website [HERE](https://captainsakura.github.io/Homepage/)
 
 ## Features
 - User friendly interface.
